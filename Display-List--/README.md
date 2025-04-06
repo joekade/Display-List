@@ -4,7 +4,7 @@ This is a simple React application that allows users to dynamically add items to
 
 ## Features
 - Empty list on initial load
-- Add item via input field and click Add Item button
+- Add item via input field and click button
 - Clears input field after submission
 - Ignores empty input
 - Added items are listed unorderly in a container list section
